@@ -28,6 +28,7 @@ if(args.help){
 }else if(args.file){
     var filepath = path.resolve(args.file);
     console.log();
+    // Merging Check
 }else{
     printError("Incorrect Usage.",true);
 }
