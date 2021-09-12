@@ -1,0 +1,11 @@
+{
+  "name": "node-cli-tool",
+  "version": "1.0.0",
+  "description": "Multifunction node tool",
+  "main": "index.js",
+  "author": "Shubham Gautam",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
